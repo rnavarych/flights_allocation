@@ -30,6 +30,16 @@ passengers:  ./rubiq_frontend/PNR1-task.csv
 
 ### DOCKER
 
-```
-scripts are under development
-```
+***For the running of the backend part with DOCKER you should use this steps:***
+
+**steps:**
+> 1. cd rubiq_backend
+> 2. docker image build -t rubiq_b .
+> 3. docker container run --publish 8081:8081 --detach --name b_rubiq rubiq_b
+
+***For the running of the frontend part with DOCKER you should use this steps:***
+
+**steps:**
+> 1. cd rubiq_frontend
+> 2. docker image build -t rubiq_f .
+> 3. docker container run --publish 3001:3001 --detach --name f_rubiq rubiq_f
