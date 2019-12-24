@@ -1,0 +1,30 @@
+.app {
+  align-items: center;
+  justify-content: center;
+  padding-top: 100px;
+  padding-left: 100px;
+
+  _uploadForm {
+    border: cadetblue 1px solid;
+    height: 400px;
+    width: 600px;
+    background-color: white;
+    z-index: 10000;
+    flex-direction: column;
+
+    _inputBlock {
+      flex-direction: column;
+    }
+
+    p {
+      margin-top: 16px;
+    }
+
+  }
+}
+
+button {
+  margin-top: 36px;
+  width: 120px;
+  height: 40px;
+}

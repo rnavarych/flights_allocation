@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="69579ca2-9bce-4432-b39e-11dafaa27496" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PNR1-task.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flights1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/actions/fileActions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/allocationResults/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/allocationResults/styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/configs/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/configs/settings.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/configs/urls.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/actionTypes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/apiMethods.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/home/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/home/styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/root.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/middleware/api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reducers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reducers/passengersAllocationReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1VNfWWqyypQ2BakzKsJKevcTGl0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69579ca2-9bce-4432-b39e-11dafaa27496" name="Default Changelist" comment="" />
+      <created>1577098504221</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577098504221</updated>
+      <workItem from="1577098505700" duration="25977000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="583" y="311" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577108963086">
+      <screen x="0" y="23" width="1680" height="957" />
+    </state>
+    <state x="583" y="311" key="#com.intellij.fileTypes.FileTypeChooser/1680.23.3840.2137/0.23.1680.957@0.23.1680.957" timestamp="1577108963086" />
+    <state x="696" y="213" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1577098972726">
+      <screen x="0" y="23" width="1680" height="957" />
+    </state>
+    <state x="696" y="213" key="#com.intellij.ide.macro.MacrosDialog/1680.23.3840.2137/0.23.1680.957@0.23.1680.957" timestamp="1577098972726" />
+    <state x="578" y="255" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1577112141788">
+      <screen x="0" y="23" width="1680" height="957" />
+    </state>
+    <state x="578" y="255" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1680.23.3840.2137/0.23.1680.957@0.23.1680.957" timestamp="1577112141788" />
+    <state x="494" y="286" key="EditFileWatcherDialog" timestamp="1577099195568">
+      <screen x="0" y="23" width="1680" height="957" />
+    </state>
+    <state x="494" y="286" key="EditFileWatcherDialog/1680.23.3840.2137/0.23.1680.957@0.23.1680.957" timestamp="1577099195568" />
+    <state x="349" y="140" key="SettingsEditor" timestamp="1577099200319">
+      <screen x="0" y="23" width="1680" height="957" />
+    </state>
+    <state x="349" y="140" key="SettingsEditor/1680.23.3840.2137/0.23.1680.957@0.23.1680.957" timestamp="1577099200319" />
+    <state x="100" y="123" width="1007" height="757" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1577208376426">
+      <screen x="0" y="23" width="1680" height="957" />
+    </state>
+    <state x="100" y="123" width="1007" height="757" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1680.957@0.23.1680.957" timestamp="1577208376426" />
+    <state x="506" y="263" width="667" height="476" key="find.popup" timestamp="1577111779532">
+      <screen x="0" y="23" width="1680" height="957" />
+    </state>
+    <state x="506" y="263" width="667" height="476" key="find.popup/1680.23.3840.2137/0.23.1680.957@0.23.1680.957" timestamp="1577111779532" />
+  </component>
+</project>

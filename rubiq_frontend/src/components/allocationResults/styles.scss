@@ -1,0 +1,29 @@
+.flight {
+  margin: 16px;
+}
+
+.flightDetails {
+  list-style-type: none;
+  background-color: cadetblue;
+
+  li {
+    display: inline;
+    margin-right: 24px;
+    color: white;
+  }
+}
+
+.passengers {
+  list-style-type: none;
+
+  li {
+    display: inline;
+    margin-right: 24px;
+    color: black;
+  }
+}
+
+#free {
+  margin-left: 72px;
+  color: brown;
+}
