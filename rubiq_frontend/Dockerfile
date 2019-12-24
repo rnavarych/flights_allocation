@@ -6,6 +6,7 @@ COPY . /frontend
 
 WORKDIR /frontend
 
+RUN yarn install
 RUN yarn add node-sass
 
 EXPOSE 3001
