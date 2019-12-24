@@ -11,18 +11,18 @@
 
 ***For the running of the frontend part you should use this steps:***
 
+**steps:**
+> 1. cd rubiq_frontend
+> 2. yarn install
+> 3. yarn start
+
 For the testing of the algorithm you can find files:
 ```
 flights:     ./rubiq_frontend/flights1.csv
 passengers:  ./rubiq_frontend/PNR1-task.csv
 ```
 
-![alt text](http://joxi.ru/4AklYMLtoWbVKr)
-
-**steps:**
-> 1. cd rubiq_frontend
-> 2. yarn install
-> 3. yarn start
+# <a href='http://joxi.ru/4AklYMLtoWbVKr'><img src='http://joxi.ru/4AklYMLtoWbVKr' height='200' width='300' alt='' /></a>
 
 ####DOCKER
 
