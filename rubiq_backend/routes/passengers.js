@@ -7,7 +7,6 @@ const uploads = multer({ dest: 'uploads/csv/' });
 const { csvParser } = require('../parsers/csv');
 
 router.post('/', uploads.any(), async function(req, res, next) {
-console.log(req.files)
   if (!req.files) {
     return res.status(400).send({message: 'Files not found'});
   }
