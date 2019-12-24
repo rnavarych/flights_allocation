@@ -6,7 +6,7 @@ COPY . /backend
 
 WORKDIR /backend
 
-RUN yarn add node-sass
+RUN yarn install
 
 EXPOSE 8081
 
