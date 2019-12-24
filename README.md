@@ -22,7 +22,11 @@ flights:     ./rubiq_frontend/flights1.csv
 passengers:  ./rubiq_frontend/PNR1-task.csv
 ```
 
-<img src='http://joxi.ru/4AklYMLtoWbVKr' />
+<p align="left" >
+  <kbd>
+    <img src="http://dl4.joxi.net/drive/2019/12/24/0023/3958/1511286/86/0e067ff938.jpg" title="Files uploading" float="left">
+  </kbd>
+</p>
 
 ### DOCKER
 
